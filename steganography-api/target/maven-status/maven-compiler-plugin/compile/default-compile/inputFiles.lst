@@ -1,0 +1,15 @@
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/model/dto/AnalysisResponse.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/model/dto/ErrorResponse.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/controller/SteganographyController.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/config/WebConfig.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/model/dto/DecodeResponse.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/model/dto/CapacityResponse.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/SteganographyApplication.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/core/LsbDecoder.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/exception/GlobalExceptionHandler.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/core/BitManipulator.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/core/LsbEncoder.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/exception/InsufficientCapacityException.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/service/SteganographyService.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/service/ImageMetricsService.java
+/Users/oliver/steganography_project/steganography-api/src/main/java/com/steganography/exception/SteganographyException.java

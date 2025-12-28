@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: steganography-api
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+steganography:
+  default-bits-per-channel: 1
+  max-bits-per-channel: 8
