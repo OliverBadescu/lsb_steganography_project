@@ -21,7 +21,7 @@ public class SteganographyController {
     }
 
     /**
-     * Encode a message into an image using LSB steganography.
+     * Encode a message into an image.
      *
      * @param image          image
      * @param message        message
@@ -46,7 +46,7 @@ public class SteganographyController {
     }
 
     /**
-     * Decode a hidden message from a image.
+     * Decode a hidden message from an image.
      *
      * @param image          image
      * @param bitsPerChannel number of LSBs that were used (1-8)
