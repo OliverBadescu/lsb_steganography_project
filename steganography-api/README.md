@@ -687,6 +687,18 @@ This API uses PNG (Portable Network Graphics) because:
 
 ---
 
+## Inspirations & References
+
+The following open-source projects served as inspiration for the algorithms used in this application:
+
+- [Image-Steganography-using-LSB](https://github.com/MonikaJov/Image-Steganography-using-LSB) — LSB steganography implementation with encoding and decoding
+- [Image-Steganography-using-LSB (Yoga-Priya)](https://github.com/Yoga-Priya/Image-Steganography-using-LSB) — Python-based LSB steganography approach
+- [Steganography_LSB-DCT-and-compare](https://github.com/Mahmoud-raafat-ac/Steganography_LSB-DCT-and-compare) — Comparison between LSB and DCT steganography methods
+- [Image-Stegano LSBEncoding](https://github.com/varunon9/Image-Stegano/blob/master/src/steganography/LSBEncoding.java) — Java LSB encoding implementation
+- [Steganography topic on GitHub](https://github.com/topics/steganography?l=java) — Collection of Java steganography projects
+
+---
+
 ## License
 
 This project is provided for educational purposes.
